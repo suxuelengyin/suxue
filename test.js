@@ -1,0 +1,1 @@
+var suxue = require('./index')
